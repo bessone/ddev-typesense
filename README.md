@@ -6,7 +6,7 @@ Uses the current stable release of the Typesense Docker image.
 
 With DDEV installed, run this command:
 
-`ddev get kevinquillen/ddev-typesense`
+`ddev add-on get kevinquillen/ddev-typesense`
 
 ## Configuration
 
